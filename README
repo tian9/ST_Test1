@@ -1,1 +1,31 @@
-README
+File Hierarchy
+
+|   .classpath
+|   .project
+|
++---.settings
+|       org.eclipse.jdt.core.prefs
+|
++---bin
+|   +---main
+|   |       MeetingTime.class
+|   |       Time.class
+|   |
+|   \---test
+|           AllTests.class
+|           MeetingTimeTest.class
+|           TimeTest.class
+|
+\---src
+    +---main
+    |       MeetingTime.java ===> MeetingTime Class
+    |       Time.java ===> Time Class
+    |
+    \---test
+            AllTests.java ===> Testsuite for MeetingTime
+            MeetingTimeTest.java ===> JUnit test for MeetingTime
+            TimeTest.java ===> JUnit test for Time
+			
+
+Jing Tian
+tian9@email.sc.edu
