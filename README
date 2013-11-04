@@ -7,15 +7,6 @@ File Hierarchy
 |       org.eclipse.jdt.core.prefs
 |
 +---bin
-|   +---main
-|   |       MeetingTime.class
-|   |       Time.class
-|   |
-|   \---test
-|           AllTests.class
-|           MeetingTimeTest.class
-|           TimeTest.class
-|
 \---src
     +---main
     |       MeetingTime.java ===> MeetingTime Class
